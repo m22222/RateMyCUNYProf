@@ -1,6 +1,6 @@
 # RateMyCUNYProf - Download Instructions
 
-1. Click 'Download Zip' on the right.
+1. Click **Download Zip** on the right.
 2. Extract the files.
 3. Open Chrome and go to `chrome://extensions/`
 4. Drag & drop the `RateMyCUNYProf.crx` file into Chrome.
