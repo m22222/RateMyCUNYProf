@@ -1,5 +1,5 @@
+### Download instructions below
 ![alt tag](http://i.imgur.com/PWMp2I1.png)
-
 # RateMyCUNYProf - Download Instructions
 1. [Click here](https://github.com/m22222/RateMyCUNYProf/raw/master/RateMyCUNYProf.crx) to download.
 2. Open Chrome and go to `chrome://extensions/`
